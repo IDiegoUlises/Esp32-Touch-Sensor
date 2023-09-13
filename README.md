@@ -51,3 +51,24 @@ void loop(){
   delay(500);
 }
 ```
+
+### Codigo que obtiene el valor del sensor touch
+```c++
+void setup()
+{
+  //Inicia el puerto serial
+  Serial.begin(115200);
+}
+
+void loop()
+{
+  //Obtiene el valor del sensor touch
+  int sensor = touchRead(T0);
+
+  //Imprime el valor del sensor
+  Serial.println(sensor);
+
+  //Retardo
+  delay(500);
+}
+```
