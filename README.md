@@ -70,7 +70,7 @@ void loop()
     Serial.println("Led Encendido"); //Imprime en el puerto serial
   }
 
-  //En caso que el sensor es mayor que el umbral
+  //En caso que el valor del sensor sea mayor que el umbral
   else
   {
     digitalWrite(led, LOW); //Apaga el led
