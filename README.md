@@ -1,4 +1,4 @@
-# Esp32-Touch-Sensor
+# Esp32 Touch Sensor
 
 ### Touch Pins Disponibles
 | Touch | Pins | 
