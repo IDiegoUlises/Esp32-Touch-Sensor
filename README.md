@@ -13,21 +13,6 @@
 | T8 | GPIO 33 |
 | T9 | GPIO 32 |
 
-
-
-valores de los pines
-T0 = GPIO 4
-T1 = GPIO 36(Solo disponible en la version de 36 pins)
-T2 = GPIO 2
-T3 = GPIO 15
-T4 = GPIO 13 
-T5 = GPIO 12
-T6 = GPIO 14
-T7 = GPIO 27
-T8 = GPIO 33
-T9 = GPIO 32
-
-
 ### Codigo que obtiene el valor del sensor touch
 ```c++
 void setup()
