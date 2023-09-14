@@ -1,6 +1,6 @@
 # Esp32-Touch-Sensor
 
-### Palabras reservadas
+### Touch Pins Disponibles
 | Touch | Pins | 
 |  :---: | :---  |          
 | T0 | GPIO 4 |
