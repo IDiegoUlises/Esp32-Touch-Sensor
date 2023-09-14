@@ -1,6 +1,6 @@
 # Esp32-Touch-Sensor
 
-| Comando | Descripcion | 
+| Touch | Pins | 
 |  :---: | :---  |          
 | T0 | GPIO 4 |
 | T1 | GPIO 36(Solo disponible en la version de 36 pins) |
