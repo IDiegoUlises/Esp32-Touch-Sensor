@@ -14,9 +14,7 @@
 | T8 | GPIO 33 |
 | T9 | GPIO 32 |
 
-* En total son 10 pins touch
-
-### Codigo que obtiene el valor del sensor touch
+### Codigo para obtener el umbral 
 ```c++
 void setup()
 {
@@ -37,7 +35,7 @@ void loop()
 }
 ```
 
-### Codigo que ya obtenido el valor del sensor touch prende y apaga un led
+### Codigo que con un umbral controla un led
 ```c++
 //Pins del led
 int led = 2;
