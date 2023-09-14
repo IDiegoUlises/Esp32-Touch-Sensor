@@ -2,7 +2,7 @@
 
 valores de los pines
 T0 = GPIO 4
-T1 = GPIO 36
+T1 = GPIO 36(Solo disponible en la version de 32 pins)
 T2 = GPIO 2
 T3 = GPIO 15
 T4 = GPIO 13 
