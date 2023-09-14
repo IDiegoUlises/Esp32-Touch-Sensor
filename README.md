@@ -81,5 +81,5 @@ void loop()
   delay(500);
 }
 ```
-
+### Funcionamiento
 ![](https://github.com/IDiegoUlises/Esp32-Touch-Sensor/blob/main/Imagenes/GIF-230913_234400.gif)
